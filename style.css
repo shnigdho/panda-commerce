@@ -19,3 +19,41 @@
 .container{
     margin-bottom: 100px;
 }
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: orchid;
+}
+.cat3{
+    background-color: blue;
+}
+.cat1,.cat2,.cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.catagories h1{
+    color: white;
+}
+.catagories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightblue;
+    border-radius: 10px;
+
+}
+.card-footer {
+    background: white;
+    border-top: none;
+}
+#submit h5{
+    color: gray;
+}
+#submit{
+    height: 300px;
+}
+footer{
+    text-align: center;
+}
